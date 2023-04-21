@@ -1,0 +1,116 @@
+body{
+  background-color: darkslategray;
+  margin:0;
+  
+}
+#logo{
+  font-size: 200px;
+  display: flex;
+  position: absolute;
+}
+#Branding{
+  color: red;
+  background-color: yellow;
+  text-decoration: none;
+  font-size: 40%;
+  opacity: 0.5;
+}
+#home{
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  margin-left: 46%;
+  font-size: 40px;
+  opacity: 0.5;
+}
+#skill{
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  margin-left: 58%;
+  font-size: 40px;
+  opacity: 0.5;
+}
+#contact{
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  margin-left: 69%;
+  font-size: 40px;
+  opacity: 0.5;
+}
+#about{
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  margin-left: 85%;
+  font-size: 40px;
+  opacity: 0.5;
+}
+#links{
+  display: inline-block;
+  position: flex;
+}
+ul li{
+  font-size: 0px;
+}
+hr{
+  color: red;
+}
+#dp{
+  border-radius: 50%;
+  margin-left: 24%;
+  outline: 4px solid gray;
+}
+#name{
+  text-align: center;
+  font-size: 70px;
+}
+#desc{
+  text-align: center;
+  font-size: 40px;
+}
+.profile{
+  outline: 5px grey solid;
+  height: 900px;
+  width: auto;
+  background-color: floralwhite;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.fa-github{
+  font-size: 80px;
+  margin-left: 35%;
+}
+.fa-gitlab{
+  font-size: 80px;
+}
+.fa-linkedin{
+  font-size: 80px;
+}
+.fa-stack-overflow{
+  font-size: 80px;
+}
+#middle{
+  margin: 20px;
+  outline: solid 2px grey;
+  background-color: black;
+}
+.middle{
+  color: red;
+  font-size: 40px;
+}
+#footer{
+  height: 220px;
+  width: auto;
+  background-color: gray;
+  margin-top: 110px;
+}
+#footer-title{
+  font-size: 80px;
+  text-align: center;
+}
+#ftr-desc{
+  text-align: center;
+  font-size: 40px;
+}
